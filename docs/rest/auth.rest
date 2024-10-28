@@ -1,0 +1,7 @@
+POST https://127.0.0.1:3000/auth/register
+Content-Type: application/json
+
+{
+    "name":"prueba",
+    "email":"alejo.m@582.com"
+}
